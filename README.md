@@ -8,7 +8,7 @@ Built to demonstrate real-world data engineering skills including PySpark transf
 ---
 
 ## 🏗️ Architecture
-----![Architecture Diagram](architecture.png)---
+![Architecture Diagram](architecture.png)
 
 **Data Flow:**
 ```
